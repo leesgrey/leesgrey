@@ -7,6 +7,8 @@ i'm currently working on:
 - cleaning up [playlistats](https://github.com/leesgrey/playlistats) - hoping to apply for extended quota soon!
 
 ![](https://web.archive.org/web/20090829185756/http://geocities.com/Area51/Orion/1806/dance/alien23.gif)
+![](https://web.archive.org/web/20090829185756/http://geocities.com/Area51/Orion/1806/dance/alien23.gif)
+![](https://web.archive.org/web/20090829185756/http://geocities.com/Area51/Orion/1806/dance/alien23.gif)
 
 <!--
 **leesgrey/leesgrey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
